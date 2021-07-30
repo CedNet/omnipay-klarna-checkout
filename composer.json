@@ -1,5 +1,5 @@
 {
-    "name": "CedNet/omnipay-klarna-checkout",
+    "name": "cednet/omnipay-klarna-checkout",
     "type": "library",
     "description": "Klarna Checkout gateway for Omnipay payment processing library",
     "keywords": ["Klarna Checkout", "Omnipay"],
